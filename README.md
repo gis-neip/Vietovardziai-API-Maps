@@ -67,5 +67,5 @@ Užklausų, kurios vykdytų paiešką GV_DRLT atributuose 'name', 'namegenitive'
 
 ## Autoriai
 
-* [VĮ „GIS-Centras“, nuo 2024-01-01 - VĮ SSVA](https://www.gis-centras.lt) - projekto autorius
+* [VĮ „GIS-Centras“, nuo 2024-01-01 - VšĮ SSVA](https://www.gis-centras.lt) - projekto autorius
 * [Nacionalinė žemės tarnyba prie aplinkos ministerijos](https://www.nzt.lt) - GV_DRLT duomenų rinkinio valdytojas
